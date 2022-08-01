@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @W-J-GitHub
-- 👀 I’m interested in computer science. Outside of school I have a passion for fencing and video games.
+- 👀 I’m a high school senior interested in computer science. I hope to major in computer science in college. Outside of school I have a passion for fencing and video games. My favorite pastime is listening to music.
 - 🌱 I’m currently learning coding in python and R.
 - 📫 How to reach me: justinwang5486@gmail.com
 
